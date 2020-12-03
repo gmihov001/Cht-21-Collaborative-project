@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+
+.jumbotron{ 
+	background-image: url('/website1/assets/img/bg.jpg'); 
+	background-size: cover; 
+	background-repeat: no-repeat; 
+    max-width: 100%;
+    height: auto;
+}  
+
+.text-background {
+    background: white;
+}
